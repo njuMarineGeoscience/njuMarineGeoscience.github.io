@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "2012"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
+excerpt: 'Yu, Q.*, Wang, Y.P., Flemming, B.W., Gao, S., 2012a. Tide-induced suspended sediment transport: Depth-averaged concentrations and horizontal residual fluxes. Continental Shelf Research 34, 53–63.'
+
+excerpt: 'Yu, Q.*, Wang, Y.W., Gao, S., Flemming, B.W., 2012b. Modeling the formation of a sand bar within a large funnel-shaped, tide-dominated estuary: Qiantangjiang Estuary, China. Marine Geology 299–302, 63–76.'
+
+excerpt: ' Yu, Q.*, Wang, Y.W., Flemming, B.W., Gao, S., 2012c. Modelling the equilibrium hypsometry of back-barrier tidal flats in the German Wadden Sea (southern North Sea). Continental Shelf Research 49, 90-99.'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
